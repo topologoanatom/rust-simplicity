@@ -98,6 +98,7 @@ pub mod node;
 pub mod policy;
 pub mod types;
 mod value;
+mod value_compact;
 
 pub use bit_encoding::decode;
 pub use bit_encoding::encode;
